@@ -53,7 +53,7 @@
     "nodemailer": "^6.3.0",
     "nps": "^5.9.12",
     "nps-utils": "^1.7.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "util": "^0.12.3",
     "utils-extend": "^1.0.8",
     "weather-js": "^2.0.0"
