@@ -39,7 +39,7 @@
     "jade": "^1.11.0",
     "jsinspect": "^0.12.7",
     "lib": "^4.0.5",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "method-override": "^3.0.0",
     "mocha": "^6.2.1",
     "moment": "^2.24.0",
